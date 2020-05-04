@@ -10,3 +10,9 @@ ABR 연구실 학부연수생 김도훈의 멘토링 관련 자료의 저장소�
 4. Numpy의 기본 사용법
 
 과제 : [Python Numpy Tutorial](https://cs231n.github.io/python-numpy-tutorial/) 따라해보기
+
+## 2주차 : 데이터 읽기, matplotlib 사용하기
+
+1. Github 기본 사용법
+2. pandas 라이브러리로 파일 읽기
+3. matplotlib 라이브러리로 데이터 시각화하기
